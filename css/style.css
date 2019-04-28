@@ -1,0 +1,8 @@
+body {
+  background-image: url(<img src="../amazing.jpg" alt="triangle" >);
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+}
