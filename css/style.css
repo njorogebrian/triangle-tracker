@@ -1,15 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
 body {
   background-image: url("../amazing.jpg");
   background-size: contain;
 }
-p{
+
+p {
   font-style: italic;
   color: black
 }
+
 h1 {
   text-align: center;
   color: blue;
+  font-family: 'Pacifico', cursive;
 }
-.move{
+
+.move {
   text-align: center;
 }
